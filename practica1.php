@@ -8,8 +8,11 @@
 </head>
 
 <body>
-    Hola mi
-    mundooo <h1></h1>
+    <h1>Hola mi
+        mundooos</h1>
+    <h2>
+        Hola
+    </h2>
 </body>
 
 </html>
